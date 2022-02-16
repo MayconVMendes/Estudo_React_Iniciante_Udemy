@@ -1,2 +1,1 @@
-# Estudo_React_Iniciante_Udemy
-Created with CodeSandbox
+Link para ver o projeto: https://j4kl0.csb.app/
